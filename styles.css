@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital@0;1&family=Noto+Serif+Display:wght@100;400&family=Saira+Condensed:wght@200&family=Space+Mono&family=Work+Sans:wght@400;500;800&display=swap');
+.container{
+    border: 2px solid lightslategray;
+    padding: 10px;
+    margin: 10px auto;
+}
+.color-container{
+    width: 100%;
+}
+.color-panel {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.blue {
+    background-color: #0d1d78;
+}
+.coral{
+    background-color: #f88379;    ;
+}
+.pink{
+    background-color: #FFCDD2;
+}
+.forestgreen{
+    background-color: #00755e;
+}
+.purple{
+    background-color: #A87CA0;
+}
+.red{
+    background-color: #E53935;;
+}
+.font-panel{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.font-label{
+    width: 100%
+
+}
+.abril-fatface{
+    font-family: 'Abril Fatface';
+}
+.merriweather{
+    font-family: 'Merriweather';
+}
+.saira-condensed{
+    font-family: 'Saira Condensed';
+}
+.space-mono{
+    font-family: 'Space Mono';
+}
+.work-sans{
+    font-family: 'Work Sans';    
+}
+.noto-serif{
+    font-family: 'Noto Serif';
+}
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'work sans';
+
+}
+.text-panel h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'space mono';
+}
+.text-panel p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'space mono';
+}
